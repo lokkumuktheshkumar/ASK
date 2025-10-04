@@ -139,4 +139,3 @@ plt.show()
 
 # Results
 Thus the modulation and demodulation of ASK and FSK is verified.
-# Hardware experiment output waveform.
